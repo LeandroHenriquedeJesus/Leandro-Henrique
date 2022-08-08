@@ -1,7 +1,8 @@
 <h1>Olá eu Sou Leandro Henrique de Jesus</h1>
 
 <div>
-💼 - Trabalho como Analista de Suporte II.<br>
+💼 - Trabalho: Analista de Suporte II.<br>
+👨‍🎓 - Formação: Gestão da Tecnologia da Informação / Analise e Desenvolvimento de Sistema.</br>
 🎒 - Etudo: HTML/CSS, JavaScript.
 </div>
 
