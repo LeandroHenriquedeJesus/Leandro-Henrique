@@ -1,6 +1,6 @@
 <h1>Olá eu Sou Leandro Henrique de Jesus</h1>
 
-<div align="left">
+<div>
 💼 - Trabalho como Analista de Suporte II.<br>
 🎒 - Etudo: HTML/CSS, JavaScript.
 </div>
@@ -8,9 +8,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/LeandroHenriquedeJesus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroHenriquedeJesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenriquedeJesus&layout=compact&langs_count=&theme=dracula"/>
+<a href="https://github.com/LeandroHenriquedeJesus">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroHenriquedeJesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenriquedeJesus&layout=compact&langs_count=5&theme=dracula"/>
 </div>
   
   ##
@@ -30,3 +30,6 @@
   <a href="https://www.facebook.com/leandrohenriquedejesus" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
   <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"</a>
   </div>
+    
+    
+    
