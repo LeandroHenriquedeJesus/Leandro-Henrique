@@ -3,13 +3,13 @@
 <div>
 💼 - Trabalho: Analista de Suporte II.<br>
 👨‍🎓 - Formação: Gestão da Tecnologia da Informação / Analise e Desenvolvimento de Sistema.</br>
+👨‍🎓 - Cursando: Ciências da Computação.
 🎒 - Estudo: HTML/CSS, JavaScript, Bootstrap.
 </div>
 
 ##
 
-
-<h1>Skills</> 
+<h1 style="color: green">Skills</> 
 <div align="center">
 <a href="https://github.com/LeandroHenriquedeJesus">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroHenriquedeJesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
