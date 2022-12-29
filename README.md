@@ -13,7 +13,7 @@
 <h1 align="left">Skills</h1> 
 <a href="https://github.com/LeandroHenriquedeJesus">
 <img width="42%" src="link" >
-<img width="50%" src="link" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenriquedeJesus&layout=compact&langs_count=&theme=tokyonight"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenriquedeJesus&layout=compact&langs_count=&theme=tokyonight"/>
 </div>
   
   ##
