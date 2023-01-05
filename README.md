@@ -4,7 +4,7 @@
 💼 - Trabalho: Analista de Suporte II (09/2021 - Atual).<br>
 👨‍🎓 - Formação: Gestão da Tecnologia da Informação / Analise e Desenvolvimento de Sistema.</br>
 👨‍🎓 - Cursando: Ciências da Computação.</br>
-🎒 - Estudo: HTML/CSS, JavaScript, Bootstrap.
+🎒 - Estudo: HTML5/CSS3, JavaScript, Bootstrap.
 </div>
 
 ##
