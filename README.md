@@ -12,7 +12,7 @@
 <div align="center">
 <h1 align="left">Skills</h1> 
 <a href="https://github.com/LeandroHenriquedeJesus">
-<img height="80em" src="https://github-readme-stats.vercel.app/api?username=leandro-henrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="80%" src="https://github-readme-stats.vercel.app/api?username=leandro-henrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohenriquedejesus&layout=compact&langs_count_private=true=&theme=dark"/>
 </div>
   
