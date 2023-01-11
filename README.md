@@ -34,7 +34,7 @@
 <a href="https://www.facebook.com/leandrohenriquedejesus" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
 
-![Snake animation](https://github.com/lulorenzon/lulorenzon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leandrohenriquedejesus/leandro-henrique/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
