@@ -9,7 +9,7 @@
 
 ##
 
-<div align="center">
+<div>
 <h1 align="left">Skills</h1> 
 <a href="https://bacons.ai/Leandro-Henrique"></a>
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=leandro-henrique&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
